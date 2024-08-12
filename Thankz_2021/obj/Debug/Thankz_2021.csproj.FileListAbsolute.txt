@@ -1,0 +1,207 @@
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\comics.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\crate.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\missile_ico.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.exe
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Thankz_2021.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.csproj.CopyComplete
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.exe
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_1.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_0.png
+C:\Users\chiro\source\repos\Thankz_2021\Thankz_2021\bin\Debug\Assets\bg_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\bg_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\bg_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\bg_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\missile_ico.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Thankz_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\Thankz_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\obj\Debug\Thankz_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\68_Lezione_11_05_Tankz_Groundable\Thankz_2021\obj\Debug\Thankz_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\missile_ico.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_1.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_0.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bg_2.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\crate.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\missile_ico.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.exe
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Thankz_2021.pdb
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\aiv-audio.dll
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\NVorbis.dll
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\System.ValueTuple.dll
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\NVorbis.xml
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\System.ValueTuple.xml
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.csproj.CopyComplete
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.exe
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\chiro\Desktop\69_Lezione_13_05_Tankz_WeaponsGUI\Thankz_2021\bin\Debug\Assets\explosion.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\bg_1.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\bg_0.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\bg_2.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\comics.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\crate.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\explosion.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\missile_ico.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\textSheet.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Thankz_2021.exe
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\Thankz_2021.pdb
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\aiv-audio.dll
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\NVorbis.dll
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\System.ValueTuple.dll
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\NVorbis.xml
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.exe
+C:\Users\aless\OneDrive\Desktop\71_Lezione_20_05_Tankz_Components\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\bg_1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\bg_0.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\bg_2.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\bullet_ico.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\comics.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\crate.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\explosion.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\missile_ico.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\sounds\cannonShoot.wav
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\sounds\engineStart.wav
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\sounds\whistle.ogg
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_1.ogg
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\sounds\wood_crack_2.ogg
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\tanks_turret2.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\tank_bullet1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\tank_bullet3.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\textSheet.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\weapons_GUI_frame.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Assets\weapon_GUI_selection.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Thankz_2021.exe.config
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Thankz_2021.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\Thankz_2021.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\aiv-audio.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\NVorbis.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\System.ValueTuple.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\NVorbis.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\bin\Debug\System.ValueTuple.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Tankz\Thankz_2021\obj\Debug\Thankz_2021.csproj.CopyComplete
